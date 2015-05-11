@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+   <file>images/demobg.png</file>
+   <file>images/bg.jpg</file>
+   <file>images/logotype.png</file>
+   <file>images/wheel.png</file>
+   <file>images/bumper_b.png</file>
+   <file>images/bumper_f.png</file>
+   <file>images/bumper_r.png</file>
+</qresource>
+</RCC>
